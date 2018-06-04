@@ -7,9 +7,9 @@
     "code_of_conduct":"https://steemit.com/blockproducer/@eoscafe/eos-cafe-calgary-code-of-conduct-roadmap-finances-and-voting",
     "email":"syedjafri@eoscalgary.io",
     "branding":{
-      "logo_256":"",
-      "logo_1024":"",
-      "logo_svg":""
+      "logo_256":"https://github.com/eoscafe/bp-info-standard/raw/master/cafe_logo_256.png",
+      "logo_1024":"https://github.com/eoscafe/bp-info-standard/raw/master/cafe_logo_1024.png",
+      "logo_svg":"https://github.com/eoscafe/bp-info-standard/raw/master/Eos_cafe_profile_picture.svg"
     },
     "location": {
       "name": "Calgary",
