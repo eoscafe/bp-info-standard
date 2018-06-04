@@ -1,32 +1,32 @@
 {
-  "producer_account_name": "",
-  "producer_public_key": "",
+  "producer_account_name": "eoscafeblock",
+  "producer_public_key": "EOS7MAPWVuYcxNtc2n9e6WaEedEZd9thGVHn2Wpu2PoMhNiteTTqL",
   "org": {
-    "candidate_name": "",
-    "website": "",
-    "code_of_conduct":"",
-    "email":"",
+    "candidate_name": "EOS Cafe Calgary",
+    "website": "https://eos.cafe",
+    "code_of_conduct":"https://steemit.com/blockproducer/@eoscafe/eos-cafe-calgary-code-of-conduct-roadmap-finances-and-voting",
+    "email":"syedjafri@eoscalgary.io",
     "branding":{
       "logo_256":"",
       "logo_1024":"",
       "logo_svg":""
     },
     "location": {
-      "name": "",
-      "country": "",
-      "latitude": 0,
-      "longitude": 0
+      "name": "Calgary",
+      "country": "Canada",
+      "latitude": 51,
+      "longitude": 114
     },
     "social": {
-      "steemit": "",
-      "twitter": "",
+      "steemit": "eoscafe",
+      "twitter": "eoscafe",
       "youtube": "",
       "facebook": "",
-      "github":"",
-      "reddit": "",
-      "keybase": "",
-      "telegram": "",
-      "wechat":""
+      "github":"eoscafe",
+      "reddit": "eoscafe",
+      "keybase": "jafri",
+      "telegram": "eoscafe",
+      "wechat":"wxid_st7mrsz0e1c522"
     }
   },
   "nodes": [
