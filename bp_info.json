@@ -32,22 +32,22 @@
   "nodes": [
     {
       "location": {
-        "name": "",
-        "country": "",
-        "latitude": 0,
-        "longitude": 0
+        "name": "Calgary",
+        "country": "CA",
+        "latitude": 51.0486,
+        "longitude": 114.0708
       },
       "is_producer": false,
-      "p2p_endpoint": "",
-      "api_endpoint": "",
+      "p2p_endpoint": "mainnet.eoscalgary.io:5222",
+      "api_endpoint": "http://mainnet.eoscalgary.io",
       "ssl_endpoint": ""
     },
     {
       "location": {
-        "name": "",
-        "country": "",
-        "latitude": 0,
-        "longitude": 0
+        "name": "Calgary",
+        "country": "CA",
+        "latitude": 51.0486 ,
+        "longitude": 114.0708
       },
       "is_producer": true,
       "p2p_endpoint": "",
